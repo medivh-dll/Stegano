@@ -2,6 +2,7 @@
 
 A modern, browser-based steganography tool for securely hiding messages and files inside images with AES encryption.
 
+https://medivh-dll.github.io/Stegano/
 ## Features
 
 - **Hide Text Messages** — Embed secret text directly into carrier images
